@@ -22,4 +22,4 @@ AT+BA03
 ```
 
 # Datasheet
-[datasheet](BT201_user_manual_V2.3.pdf)
+[datasheet](datasheet.pdf)
